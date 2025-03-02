@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using System.IdentityModel.Tokens.Jwt;
-using System.Threading.Tasks;
+﻿using System.IdentityModel.Tokens.Jwt;
 
 public class AuthenticationMiddleware
 {
